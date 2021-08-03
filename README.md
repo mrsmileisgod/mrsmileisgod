@@ -1,7 +1,7 @@
 
 # Hello, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am MrSmile. A passionate Android Developer 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsmileisgod&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsmileisgod&count_private=true)
 
 - 📫 How to reach me **mrsmileisgod@gmail.com**
 <h3 align="left">Languages and Tools:</h3>
