@@ -1,5 +1,5 @@
 
-# Hello, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am MrSmile. A passionate Android Developer 
+# Hello, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Ranjodh SIngh, A passionate Android Developer 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjodh55&label=Profile%20views&color=0e75b6&style=flat" alt="ranjodh55" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjodh55&" alt="ranjodh55&count_private=true" /></a> </p>
